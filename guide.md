@@ -11,7 +11,7 @@
 ## Plotting a single node
 You can either type it in manually, or use the node builder.
 Json format:
-```json
+```
 {
   "<node name>": {
     "x": 2, // x coord of node
@@ -26,7 +26,7 @@ Json format:
 (aka component)
 You have to type this in manually; in the future I might do a builder for this
 Json format:
-```json
+```
 {
   "<pla name>": {
     "type": "<type>", // PLA type
