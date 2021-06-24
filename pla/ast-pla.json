@@ -1,9 +1,25 @@
 {
-    "BroadcastAv": {
+    "broadcastAv": {
         "type": "localTertiaryRoad",
-        "displayname": "Broadcasting Avenue",
-        "description": "Aston
+        "displayname": "Broadcasting Ave",
+        "description": "Aston"
         "layer": 0,
-        "nodes": ["ast-broadcastAv1", "ast-broadcastAv2_centerSt", "ast-broadcastAv3_airshipAv", "ast-broadcastAv4_stainerSt", "ast-broadcastAv5_forestSt", "ast-broadcastAv6"],
+        "nodes": ["broadcastAv1", "broadcastAv2_centerSt", "broadcastAv3_airshipAv", "broadcastAv4_stainerSt", "broadcastAv5_forestSt", "broadcastAv6"],
+        "attrs": {}
+    },
+     "centerSt": {
+        "type": "localTertiaryRoad",
+        "displayname": "Center St",
+        "description": "Aston"
+        "layer": 0,
+        "nodes": ["centerSt1_broadcastAv", "centerSt2_illinoisAv", "centerSt3", "centerSt4", "centerSt5_forestSt", "centerSt6_riverRoad", centerSt7],
+        "attrs": {}
+    },
+     "riverRoad": {
+        "type": "localTertiaryRoad",
+        "displayname": "River Rd",
+        "description": "Aston"
+        "layer": 0,
+        "nodes": ["riverRoad1_centerSt", "riverRoad2", "riverRoad3", "riverRoad4_illinoisAv"],
         "attrs": {}
     },

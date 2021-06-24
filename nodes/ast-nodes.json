@@ -103,5 +103,50 @@
         "x": -17261,
         "y": -19562,
         "connections": []
+    },
+    "illinoisAv1_centerSt": {
+        "x": -17388,
+        "y": -19566,
+        "connections": []
+    },
+    "illinoisAv2_stainerSt": {
+        "x": -17360,
+        "y": -19566,
+        "connections": []
+    },
+    "illinoisAv3_forestSt": {
+        "x": -17328,
+        "y": -19566,
+        "connections": []
+    },
+    "illinoisAv4_riverRoad": {
+        "x": -17265,
+        "y": -19566,
+        "connections": []
+    },
+    "illinoisAv5": {
+        "x": -17236,
+        "y": -19566,
+        "connections": []
+    },
+    "airshipAv1": {
+        "x": -17368,
+        "y": -19670,
+        "connections": []
+    },
+    "airshipAv2": {
+        "x": -17368,
+        "y": -19709,
+        "connections": []
+    },
+    "stlDr1": {
+        "x": -17236,
+        "y": -19566,
+        "connections": []
+    },
+    "stlDr2": {
+        "x": -17236,
+        "y": -19666,
+        "connections": []
     }
 }
