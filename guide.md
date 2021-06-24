@@ -45,11 +45,12 @@ Json format:
 2. Run `pip install tile-renderer` in console
 3. `cd` to the directory where your node json file is in
 4. Run `renderer nodebuilder` or `python -m renderer builder`
-5. Indicate the file to write to, eg. `examplenodes.json`
-6. Ingame, do F3+C, and paste it in the input. You are then prompted to title the node.
-7. Repeat this until you are done, then type `exit`.
-8. The new nodes should now be in the json file.
-9. Remember to save often by exiting and re-entering :D
+5. Create the node file, and write `{}` inside it. **This is important, or else running the nodebuilder will get you an error.**
+6. Indicate the file to write to, eg. `XXX-nodes.json`
+7. Ingame, do F3+C, and paste it in the input. You are then prompted to title the node.
+8. Repeat this until you are done, then type `exit`.
+9. The new nodes should now be in the json file.
+10. Remember to save often by exiting and re-entering :D
 
 ## ID naming guidelines
 **Remember namespace prefix!** Prefix them like this: `<namespace>-<node name>`, eg `enc-cabrilloAv`
