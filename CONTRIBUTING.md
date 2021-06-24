@@ -9,6 +9,7 @@ To start mapping, please join MRT-Map's Discord server and ping @7d#5755 for the
 * srd: A/B roads
 * mrt: mrt lines
 * enc: encinitas - __7d
+* ast: aston - notshort275
 * cct: central city
 * rlq: railinq
 * brl: blurail
