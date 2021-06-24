@@ -53,13 +53,13 @@ Json format:
 10. Remember to save often by exiting and re-entering :D
 
 ## ID naming guidelines
-**Remember namespace prefix!** Prefix them like this: `<namespace>-<node name>`, eg `enc-cabrilloAv`
-**No spaces in IDs**
-**Roads** for nodes use `<name><nodeNo>`, for pla use `<name>`. Eg `enc-cabrilloAv2`
-**Double-lined roads, eg A/B roads** for nodes use `<name><n|s|e|w><node No>`, for pla use `<name><n|s|e|w>`, eg `B209n1`. Node number should be the same in one direction, ie dont have n1 and s109 next to each other, have n1 and s1
-**Intersections** for nodes use `<name><nodeNo>_<name><nodeNo>`, eg `frn-insanityBlvd2_accidentAv1`
-**Buildings, parks, platforms, etc** for nodes use `<name><nodeNo>`, for pla use `<name>`. if you have similar buildings with no names ID them with A B C D etc. Eg `enc-officeB1` and `enc-officeB`
-**Grouping PLAs** Use `<group name>_<name etc>`, eg. `frn-cityHall_pondA1_sidewalkB8`
+* **Remember namespace prefix!** Prefix them like this: `<namespace>-<node name>`, eg `enc-cabrilloAv`
+* **No spaces in IDs**
+* **Roads** for nodes use `<name><nodeNo>`, for pla use `<name>`. Eg `enc-cabrilloAv2`
+* **Double-lined roads, eg A/B roads** for nodes use `<name><n|s|e|w><node No>`, for pla use `<name><n|s|e|w>`, eg `B209n1`. Node number should be the same in one direction, ie dont have n1 and s109 next to each other, have n1 and s1
+* **Intersections** for nodes use `<name><nodeNo>_<name><nodeNo>`, eg `frn-insanityBlvd2_accidentAv1`
+* **Buildings, parks, platforms, etc** for nodes use `<name><nodeNo>`, for pla use `<name>`. if you have similar buildings with no names ID them with A B C D etc. Eg `enc-officeB1` and `enc-officeB`
+* **Grouping PLAs** Use `<group name>_<name etc>`, eg. `frn-cityHall_pondA1_sidewalkB8`
 
 ## Steps to map a city
 1a. Map the roads. They are linear components. if there is an intersection, two roads can go onto one road.
