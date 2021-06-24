@@ -61,6 +61,13 @@ Json format:
 * **Buildings, parks, platforms, etc** for nodes use `<name><nodeNo>`, for pla use `<name>`. if you have similar buildings with no names ID them with A B C D etc. Eg `enc-officeB1` and `enc-officeB`
 * **Grouping PLAs** Use `<group name>_<name etc>`, eg. `frn-cityHall_pondA1_sidewalkB8`
 
+## Viewing progress
+* Go to https://map.iiiii7d.repl.co/
+* Open Inspect Element, and go to the console
+* Type `dataViewer()`.
+* You will be prompted to paste in your PLA and node file.
+* All PLAs and nodes will then be plotted directly on the map.
+
 ## Steps to map a city
 1a. Map the roads. They are linear components. if there is an intersection, two roads can go onto one road.
 - A list of road types: localHighwaySlip, bRoadSlip, aRoadSlip, localPedestrianQuaternaryRoad, localQuaternaryRoad, localPedestrianTertiaryRoad, localTertiaryRoad, localSecondaryRoad, localMainRoad, localHighway, bRoad, aRoad, rail
