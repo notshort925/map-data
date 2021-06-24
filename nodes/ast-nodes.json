@@ -1,50 +1,50 @@
 {
-    "ast-broadcastAv1": {
+    "broadcastAv1": {
         "x": -17416,
         "y": -19667,
         "connections": []
     },
-    "ast-broadcastAv2_centerSt": {
+    "broadcastAv2_centerSt": {
         "x": -17397,
         "y": -19667,
         "connections": []
     },
-    "ast-broadcastAv3_airshipAv": {
+    "broadcastAv3_airshipAv": {
         "x": -17372,
         "y": -19667,
         "connections": []
     },
-    "ast-broadcastAv4_stainerSt": {
+    "broadcastAv4_stainerSt": {
         "x": -17361,
         "y": -19667,
         "connections": []
     },
-    "ast-broadcastAv5_forestSt": {
+    "broadcastAv5_forestSt": {
         "x": -17329,
         "y": -19667,
         "connections": []
     },
-    "ast-broadcastAv6": {
+    "broadcastAv6": {
         "x": -17241,
         "y": -19667,
         "connections": []
     },
-    "ast-forestSt1_BroadcastAv": {
+    "forestSt1_BroadcastAv": {
         "x": -17324,
         "y": -19662,
         "connections": []
     },
-    "ast-forestSt2_illinoisAv": {
+    "forestSt2_illinoisAv": {
         "x": -17324,
         "y": -19570,
         "connections": []
     },
-    "ast-forestSt3_QuarterSt": {
+    "forestSt3_QuarterSt": {
         "x": -17324,
         "y": -19542,
         "connections": []
     },
-    "ast-forestSt4_centerSt": {
+    "forestSt4_centerSt": {
         "x": -17324,
         "y": -19439,
         "connections": []
