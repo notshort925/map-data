@@ -48,5 +48,60 @@
         "x": -17324,
         "y": -19439,
         "connections": []
+    },
+    "centerSt1_broadcastAv": {
+        "x": -17392,
+        "y": -19663,
+        "connections": []
+    },
+    "centerSt2_illinoisAv": {
+        "x": -17392,
+        "y": -19570,
+        "connections": []
+    },
+    "centerSt3": {
+        "x": -17392,
+        "y": -19435,
+        "connections": []
+    },
+    "centerSt4": {
+        "x": -17387,
+        "y": -19435,
+        "connections": []
+    },
+    "centerSt5_forestSt": {
+        "x": -17328,
+        "y": -19435,
+        "connections": []
+    },
+    "centerSt6_riverRoad": {
+        "x": -17265,
+        "y": -19435,
+        "connections": []
+    },
+    "centerSt7": {
+        "x": -17175,
+        "y": -19435,
+        "connections": []
+    },
+    "riverRoad1_centerSt": {
+        "x": -17261,
+        "y": -19439,
+        "connections": []
+    },
+    "riverRoad2": {
+        "x": -17261,
+        "y": -19462,
+        "connections": []
+    },
+    "riverRoad3": {
+        "x": -17261,
+        "y": -19524,
+        "connections": []
+    },
+    "riverRoad4_illinoisAv": {
+        "x": -17261,
+        "y": -19562,
+        "connections": []
     }
 }
