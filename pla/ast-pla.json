@@ -1,0 +1,9 @@
+{
+    "BroadcastAv": {
+        "type": "localTertiaryRoad",
+        "displayname": "Broadcasting Avenue",
+        "description": "Aston
+        "layer": 0,
+        "nodes": ["ast-broadcastAv1", "ast-broadcastAv2_centerSt", "ast-broadcastAv3_airshipAv", "ast-broadcastAv4_stainerSt", "ast-broadcastAv5_forestSt", "ast-broadcastAv6"],
+        "attrs": {}
+    },
