@@ -148,5 +148,15 @@
         "x": -17236,
         "y": -19666,
         "connections": []
+    },
+    "stainerSt1_illinoisAv": {
+        "x": -17356,
+        "y": -19570,
+        "connections": []
+    },
+    "stainerSt2_broadcastAv": {
+        "x": -17356,
+        "y": -19662,
+        "connections": []
     }
 }
